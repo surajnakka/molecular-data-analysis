@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MSDataAnalysis       
+Comment=Open run.sh
+Exec=/home/surajnakka/MSDataAnalysis/run.sh
+Icon=/home/surajnakka/MSDataAnalysis/images.png
+Terminal=true
+Type=Application
